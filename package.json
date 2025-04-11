@@ -1,5 +1,4 @@
 {
-  "homepage": "https://Eduardo-Franco28.github.io/Templete-de-estudos-gustavo-web",
   "name": "templatetodos",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeply": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.0.0",
